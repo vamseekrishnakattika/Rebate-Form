@@ -1,0 +1,10 @@
+C:\Users\vamse\source\repos\Asg2-vxk165930\Asg2-vxk165930\bin\Debug\Asg2-vxk165930.exe.config
+C:\Users\vamse\source\repos\Asg2-vxk165930\Asg2-vxk165930\bin\Debug\Asg2-vxk165930.exe
+C:\Users\vamse\source\repos\Asg2-vxk165930\Asg2-vxk165930\bin\Debug\Asg2-vxk165930.pdb
+C:\Users\vamse\source\repos\Asg2-vxk165930\Asg2-vxk165930\obj\Debug\Asg2-vxk165930.csprojAssemblyReference.cache
+C:\Users\vamse\source\repos\Asg2-vxk165930\Asg2-vxk165930\obj\Debug\Asg2_vxk165930.Properties.Resources.resources
+C:\Users\vamse\source\repos\Asg2-vxk165930\Asg2-vxk165930\obj\Debug\Asg2_vxk165930.RebateForm.resources
+C:\Users\vamse\source\repos\Asg2-vxk165930\Asg2-vxk165930\obj\Debug\Asg2-vxk165930.csproj.GenerateResource.cache
+C:\Users\vamse\source\repos\Asg2-vxk165930\Asg2-vxk165930\obj\Debug\Asg2-vxk165930.csproj.CoreCompileInputs.cache
+C:\Users\vamse\source\repos\Asg2-vxk165930\Asg2-vxk165930\obj\Debug\Asg2-vxk165930.exe
+C:\Users\vamse\source\repos\Asg2-vxk165930\Asg2-vxk165930\obj\Debug\Asg2-vxk165930.pdb
